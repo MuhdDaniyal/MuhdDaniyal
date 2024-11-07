@@ -6,7 +6,7 @@
 
 🤝 **Seeking Help With:** Expanding my Computer Vision knowledge.
 
-🌱 **Currently Learning:** Advanced NLP, Computer Vision, and DevOps in my final year of AI studies.
+🌱 **Currently Learning:** Advanced NLP, Computer Vision, and DevOps.
 
 💬 **Ask Me About:** Anything AI-related, especially image processing and diffusion models. Also, cars and bikes!
 
